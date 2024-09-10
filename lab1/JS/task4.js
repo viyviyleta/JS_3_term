@@ -1,0 +1,13 @@
+console.log("Котик" < "котик");
+console.log("Котик" < "китик");
+console.log("Кот" < "Котик");
+console.log("Пока" < "Привет");
+console.log(73 > "53");
+console.log(false == 0);
+console.log(true < 54);
+console.log(false < 123);
+console.log(true < "3");
+console.log(3 < "5мм");
+console.log("-2" < 8);
+console.log(34 == "34");
+console.log(null == undefined);
